@@ -1,0 +1,20 @@
+#include "warehouse.h"
+#include <string>
+#include <iostream>
+
+
+warehouse::warehouse()
+{
+
+}
+
+warehouse::warehouse(std::string loc)
+{
+  location = loc;
+}
+std::string warehouse::get_warehouse_location()
+{
+
+
+
+}

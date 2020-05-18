@@ -1,0 +1,17 @@
+#include "warehouse.h"
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+
+  warehouse w;
+
+  string upc  ="123213123";
+  string date ="01/11/1111";
+  int qty= 7;
+  w.add_to_holder(upc,date,qty);
+
+}

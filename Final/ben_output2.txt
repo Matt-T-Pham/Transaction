@@ -1,0 +1,27 @@
+Report by Megan Evans and Benjamin Allred
+
+Underfilled orders:
+05/01/2010 0289016410 organic fruit munchies
+05/01/2010 0347866846 slice one orange soda
+05/01/2010 0848751468 elan frozen coffee yogurt
+05/02/2010 0227396674 swiss miss no sugar added cocoa
+05/02/2010 0848751468 elan frozen coffee yogurt
+05/04/2010 0227396674 swiss miss no sugar added cocoa
+05/04/2010 0289016410 organic fruit munchies
+05/04/2010 0347866846 slice one orange soda
+05/04/2010 0814194965 for maximum value chocolate chip cookies
+05/05/2010 0347866846 slice one orange soda
+05/05/2010 0814194965 for maximum value chocolate chip cookies
+05/06/2010 0289016410 organic fruit munchies
+05/07/2010 0289016410 organic fruit munchies
+05/07/2010 0814194965 for maximum value chocolate chip cookies
+
+Well-Stocked Products:
+0227396674 swiss miss no sugar added cocoa
+0347866846 slice one orange soda
+0848751468 elan frozen coffee yogurt
+
+Most Popular Products:
+28 0289016410 organic fruit munchies
+27 0814194965 for maximum value chocolate chip cookies
+20 0347866846 slice one orange soda

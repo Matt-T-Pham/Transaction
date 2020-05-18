@@ -1,0 +1,19 @@
+#ifndef WAREHOUSE_H
+#define WAREHOUSE_H
+
+#include <string>
+#include <iostream>
+
+class warehouse
+{
+ private:
+  std::string location
+ public:
+   warehouse();
+   warehouse(std::string location);
+   warehouse(const warehouse & other);
+   ~warehouse();
+   std::string get_warehouse_location();
+};
+
+#endif
